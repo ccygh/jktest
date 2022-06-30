@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class DemoApplication {
 
 	public static void main(String[] args) {
-		System.out.println("add one code");
+		System.out.println("add second code");
 		SpringApplication.run(DemoApplication.class, args);
 	}
 
